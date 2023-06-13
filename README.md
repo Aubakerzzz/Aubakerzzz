@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aubakerzzz?tab=repositories](https://github.com/Aubakerzzz?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, REACT, Sql, MongoDB, WebAPI**
+- 💬 Ask me about **HTML, CSS, REACT, Sql, MongoDB**
 
 - 📫 How to reach me **abubakerajazz@gmail.com**
 
