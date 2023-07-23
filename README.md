@@ -7,13 +7,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aubakerzzz&label=Profile%20views&color=0e75b6&style=flat)
 
 
-- 🔭 I’m currently Studying Computer Science **Web and App development**
+- 🔭 I’m currently Studying Computer Science **Web and Game development**
 
 - 🌱 I’m currently learning **Angular.io, Ionic, jQuery**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aubakerzzz?tab=repositories](https://github.com/Aubakerzzz?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, REACT, node.js, MongoDB**
+- 💬 Ask me about **MERN, MEAN, Playroom Kit, Phaser**
 
 - 📫 How to reach me **abubakerajazz@gmail.com**
 
